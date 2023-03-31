@@ -1,0 +1,14 @@
+.popup{
+    padding-top: 10%;
+    display: flex;
+
+   width: 100%;
+
+}
+.popup__input{
+    width: 100%;
+}
+.answer{
+    
+    text-align: center;
+}
